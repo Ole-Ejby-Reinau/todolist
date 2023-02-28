@@ -1,5 +1,5 @@
 import Foundation
-// EBK was here
+// EBK was here again
 // Immutable Struct has only 'let' constants
 
 struct ItemModel: Identifiable, Codable
