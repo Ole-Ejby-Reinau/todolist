@@ -7,6 +7,8 @@ import Foundation
  Read
  Update
  Delete
+ 
+ Ole was here
  */
 
 class ListViewModel: ObservableObject
